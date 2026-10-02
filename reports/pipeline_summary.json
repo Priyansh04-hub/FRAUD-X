@@ -1,0 +1,6 @@
+{
+    "selected_model": "MLP Neural Network",
+    "training_rows": 1296675,
+    "testing_rows": 555719,
+    "feature_count": 15
+}

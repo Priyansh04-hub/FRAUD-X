@@ -1,0 +1,16 @@
+feature,importance
+amt,0.7231518111464286
+category_frequency,0.6584052620143406
+hour,0.20768355932287913
+customer_frequency,0.04336526399111031
+age,0.028231440683361607
+category_encoded,0.0028298357865614854
+lat,0.0
+long,0.0
+unix_time,0.0
+merch_long,0.0
+merch_lat,0.0
+month,0.0
+day_of_week,0.0
+merchant_frequency,0.0
+city_pop,-5.2055985935828275e-05
